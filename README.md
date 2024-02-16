@@ -4,7 +4,7 @@ This is a student Term Project in `Information Retrieval and Text Mining` by Pro
 
 ## Quick Links
 
-- [IRTM Term Project]([link-to-pdf](https://github.com/brianCHUCHU/Social_Advertisement_Recommendation_System/blob/main/IRTM%20Term%20Project.pdf)): For detailed documentation in formal PDF format.
+- [IRTM Term Project](https://github.com/brianCHUCHU/Social_Advertisement_Recommendation_System/blob/main/IRTM%20Term%20Project.pdf): For detailed documentation in formal PDF format.
 
 ## Brief Description
 ### Abstract
